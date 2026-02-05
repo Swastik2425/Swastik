@@ -213,7 +213,7 @@ function App() {
       </section>
 
       <footer className="py-8 px-6 border-t border-slate-700 text-center text-slate-400">
-        <p>&copy; 2024 Swastik Jaiswal. All rights reserved.</p>
+        <p>&copy; 2026 Swastik Jaiswal. All rights reserved.</p>
       </footer>
     </div>
   );
